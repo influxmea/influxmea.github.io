@@ -1,3 +1,9 @@
+---
+layout: single
+title:  GKuber 시작!"
+---
+
+
 깃허브에 유저네임과 같은 폴더를 만들고, jykyl 기능으로 작동되게 함. 
 일을 쉽게하기 위해서 남들도 많이 쓰는 Template Minimal Mistake를 fork로 끌고와서 작업함
 
